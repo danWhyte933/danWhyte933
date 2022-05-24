@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danWhyte933
 - 👀 I’m interested in beginner projects
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JavaScript and Front End
 - 💞️ I’m looking to collaborate on anything I can help with
 - 📫 Reach me at danwhyte1986@gmail.com
 
